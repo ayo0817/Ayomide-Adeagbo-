@@ -1,0 +1,6 @@
+{
+  "name": "Sales Coaching Intelligence",
+  "description": "An interactive dashboard for sales managers and reps featuring audio file upload, diarized transcription, sentiment and engagement analysis graphs, and automated coaching recommendations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
